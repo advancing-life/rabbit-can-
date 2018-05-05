@@ -20,4 +20,4 @@
 ## DataBaseModel
 [DB](https://drive.google.com/file/d/1kf07mT_S549qSrl1QWfHZSJPp0sPhdZJ/view?usp=sharing)
 
-![Infra](https://raw.github.com/wiki/advancing-life/rabbit-can-/.github/infra.svg)
+![Infra](https://raw.githubusercontent.com/advancing-life/rabbit-can-/blob/master/.github/infra.jpg)
