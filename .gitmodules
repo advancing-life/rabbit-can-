@@ -1,0 +1,9 @@
+[submodule "rabbit-can-backend"]
+	path = rabbit-can-backend
+	url = git@github.com:advancing-life/rabbit-can-backend.git
+[submodule "rabbit-can-middleware"]
+	path = rabbit-can-middleware
+	url = git@github.com:advancing-life/rabbit-can-middleware.git
+[submodule "rabbit-can--frontend"]
+	path = rabbit-can--frontend
+	url = git@github.com:advancing-life/rabbit-can--frontend.git
